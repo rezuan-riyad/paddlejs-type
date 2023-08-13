@@ -1,5 +1,5 @@
 {
-  "name": "paddlejs_type",
+  "name": "paddlejs_types",
   "version": "0.0.1",
   "description": "Type definitions for paddlejs",
   "main": "index.js",
@@ -8,7 +8,15 @@
   },
   "author": "Rezuan",
   "license": "ISC",
-  "devDependencies": {
-    "typescript": "^5.1.6"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezuan-riyad/paddlejs-type.git"
+  },
+  "keywords": [
+    "paddlejs_type"
+  ],
+  "bugs": {
+    "url": "https://github.com/rezuan-riyad/paddlejs-type/issues"
+  },
+  "homepage": "https://github.com/rezuan-riyad/paddlejs-type#readme"
 }
